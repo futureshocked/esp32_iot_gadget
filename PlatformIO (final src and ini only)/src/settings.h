@@ -23,7 +23,7 @@
 
     #define LED_PIN            17
     #define IFTTT_PIN          16
-    #define EEPROM_SIZE 2  // We'll use 1 byte in the EEPROM to store the max number of POSTs
+    #define EEPROM_SIZE 4  // We'll use 1 byte in the EEPROM to store the max number of POSTs
     #define CALIBRATION_FILE "/tft-touch-calData_1" // This file will contain the data from the
                                                   // touchscreen calibration process at boot (only needed once)
 #endif
