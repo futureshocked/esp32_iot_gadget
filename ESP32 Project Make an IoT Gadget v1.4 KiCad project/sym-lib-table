@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP32-with-2.8"-TFT-240x320-touch-screen-and-BME280-available-GPIOs-rescue)(type Legacy)(uri "${KIPRJMOD}/ESP32 with 2.8\" TFT 240x320 touch screen and BME280 available GPIOs-rescue.lib")(options "")(descr ""))
+  (lib (name ESP32-with-2.8"-TFT-240x320-touch-screen-and-BME280-available-GPIOs-v2-rescue)(type Legacy)(uri "${KIPRJMOD}/ESP32 with 2.8\" TFT 240x320 touch screen and BME280 available GPIOs v2-rescue.lib")(options "")(descr ""))
+)
