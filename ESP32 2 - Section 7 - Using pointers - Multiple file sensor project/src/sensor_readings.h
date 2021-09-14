@@ -6,7 +6,6 @@
 #define SEALEVELPRESSURE_HPA (1013.25)
 
 void refresh_readings(Adafruit_BME280* bme);
-//void refresh_readings();
 
 #endif
 
