@@ -21,6 +21,5 @@ void loop() {
   refresh_readings(&bme);  // Passing the bme object to the function as bme is only "global" in this file.
                           // crash when passing object like this "bme".
                           // works when I pass pointer, like this "&bme"
-  //refresh_readings();
   delay(2000);
 }
