@@ -3,7 +3,6 @@
 #include "sensor_readings.h"
 
 void refresh_readings(Adafruit_BME280* bme) {
-//void refresh_readings() {
   float f_temperature;
   float f_humidity;
   float f_pressure;
