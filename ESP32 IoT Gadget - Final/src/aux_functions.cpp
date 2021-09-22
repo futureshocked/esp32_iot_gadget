@@ -1,6 +1,6 @@
 #include "aux_functions.h"
 
-int postCounter = 0; // Use this counter to indicate (on the TFT screen) how many
+unsigned int postCounter = 0; // Use this counter to indicate (on the TFT screen) how many
                      // MQTT posts where completed in the current power cycle
 
 
